@@ -1,0 +1,9 @@
+De header en de footer staan in /view/templates/ header.php & footer.php
+
+De main pagina staat in /view/home/index.php
+
+De css staat in /public/css/style.css
+
+De javascript staat in /public/js/bootstrap.min.js
+
+http://localhost/framework-php-master/birthdays/
